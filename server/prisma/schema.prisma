@@ -1,0 +1,25 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+//Utilize o mesmo banco de dados em Desenvolvimento e produção
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+//Universal Unique ID generator
+
+
+model Feedback{
+  id String @id @default(uuid())
+
+  type String
+  comment String
+  screenshot String?
+
+  @@map("feedbacks")
+}

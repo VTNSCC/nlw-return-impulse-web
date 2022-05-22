@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    @apply bg-[#09090A] text-zinc-100
+}
+/*
+Uma forma é referenciar aqui o estilo que vai ser usado com o @apply do tailwind
+Ou fazer diretamente = "preferenciável"
+.button{
+    @apply bg-indigo-500 px-4 h-10 rounded text-violet-100;
+}
+*/
