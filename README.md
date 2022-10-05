@@ -49,7 +49,7 @@ Você pode visualizar o layout do projeto através do link abaixo:
 
 ## ⚙️ Como executar
 
-Para fazer o projeto rodar em sua máquina se assegure de ter o Postgressql e ter adicionado o mesmo no arquivo .env da aplicação backend na pasta server.
+Para fazer o projeto rodar em sua máquina se assegure de ter o Postgres e ter adicionado o mesmo no arquivo .env da aplicação backend na pasta server.
 Além disso não esqueça de adicionar a pasta web e mobile o endereço do seu backend nas API's.
 
 Sem mais delongas, para iniciá-lo, siga os passos abaixo:
