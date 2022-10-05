@@ -84,8 +84,7 @@ $ npm run start
 <a href = "mailto: vtnsdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" margin-right="10px"></a>
 <a href="https://www.linkedin.com/in/victor-trarbach-nunes-a95648b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-## 📝 Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+  <!-- ## 📝 Licença
+   Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes. -->
 
 <p align="center">Feito com 💜 por Victor Trarbach</p>
